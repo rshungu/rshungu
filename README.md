@@ -16,10 +16,11 @@ Skills
   - 🎓 Courses Certifications: Google Data Analytics, Basic Machine Learning & Deep Learning
 
 Certificates
-  - [Statistics Computing for Health Data Science](https://github.com/rshungu/Certicates/blob/03a7a69e969d761b195ab8c537915e1a2235d0e3/Statistical%20computing.pdf)
-  - [Deep Learning](https://github.com/rshungu/Certicates/blob/03a7a69e969d761b195ab8c537915e1a2235d0e3/Deep%20Learning.pdf)
   - [Google Data Analytics](https://github.com/rshungu/Certicates/blob/9b13b1696d9d80f42b3f58425c8b2f3b7552691d/Coursera%20HYAXFQC4XV6V.pdf)
+  - [Statistics Computing for Health Data Science](https://github.com/rshungu/Certicates/blob/03a7a69e969d761b195ab8c537915e1a2235d0e3/Statistical%20computing.pdf)
   - [Essential Math specialization](https://github.com/rshungu/Certicates/blob/9b13b1696d9d80f42b3f58425c8b2f3b7552691d/Coursera%20A7HFX3DVWA63.pdf)
+  - [Machine Learning](https://github.com/rshungu/Certicates/blob/4b9fa5d70e427e55525d0943725665fba6afcc62/Machine%20Learning.pdf)
+  - [Deep Learning](https://github.com/rshungu/Certicates/blob/03a7a69e969d761b195ab8c537915e1a2235d0e3/Deep%20Learning.pdf)
 
     
 Let’s connect and learn together! 🚀
