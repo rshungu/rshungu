@@ -15,5 +15,9 @@ Skills
   - 🔬 Areas of Interest: Data Analytics, Health Data Science, Machine Learning (learning stage)
   - 🎓 Courses Certifications: Google Data Analytics, Basic Machine Learning & Deep Learning
 
+Certificates
+  - [Statistics Computing for Health Data Science](file:///E:/Rehema%20Aunt/DSI_WASHA_Statistical%20Computing/Introduction%20to%20R/Statistical%20computing.pdf)
+  - 
+
 Let’s connect and learn together! 🚀
   - [Linkedin](https://www.linkedin.com/in/rehema-shungu-4a4620292/)
