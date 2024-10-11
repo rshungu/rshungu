@@ -16,8 +16,10 @@ Skills
   - 🎓 Courses Certifications: Google Data Analytics, Basic Machine Learning & Deep Learning
 
 Certificates
-  - [Statistics Computing for Health Data Science](file:///E:/Rehema%20Aunt/DSI_WASHA_Statistical%20Computing/Introduction%20to%20R/Statistical%20computing.pdf)
-  - 
+  - [Statistics Computing for Health Data Science](https://github.com/rshungu/Certicates/blob/03a7a69e969d761b195ab8c537915e1a2235d0e3/Statistical%20computing.pdf)
+  - [Deep Learning](https://github.com/rshungu/Certicates/blob/03a7a69e969d761b195ab8c537915e1a2235d0e3/Deep%20Learning.pdf)
+  - [Machine Learning]
 
+    
 Let’s connect and learn together! 🚀
   - [Linkedin](https://www.linkedin.com/in/rehema-shungu-4a4620292/)
