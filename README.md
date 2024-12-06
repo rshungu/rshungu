@@ -9,7 +9,7 @@ At this stage in my journey, I’ve gained hands-on experience with R, Python, a
 I’m exploring how to harness data to uncover patterns, create visualizations 📊, and contribute to healthcare research, all while continuously learning and experimenting. Each project helps me grow and pushes me further in my data journey!
 
 Skills
-  - 💻 Programming Languages: R, Python (beginner level)
+  - 💻 Programming Languages: R, Python, SQL
   - 📊 Tools & Technologies: Google Colab, Git/GitHub
   - 🐧 Platforms: Linux, Windows
   - 🔬 Areas of Interest: Data Analytics, Health Data Science, Machine Learning (learning stage)
